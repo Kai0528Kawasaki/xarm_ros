@@ -35,8 +35,8 @@ demo/build*
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
+# [Dd]ebug/
+# [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
 [Xx]64/
